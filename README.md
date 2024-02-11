@@ -32,6 +32,8 @@ This game was created with an OpenGL framework provided by my university. In add
 2) Determine the radius of each circle.
 3) Calculate the distance between the two centers.
 4) Check if the distance is less than the sum of the radii of the circles.
+
+## Test image
 ![WhatsApp Image 2024-02-11 at 17 21 04_4d906e60](https://github.com/Dragos002/Diamonds-vs-Hexagons/assets/94574675/c300d0ab-3694-45d5-bd52-9b4de6445ab4)
 
 
