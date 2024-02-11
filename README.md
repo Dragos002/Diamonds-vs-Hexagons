@@ -7,6 +7,7 @@ Diamonds vs Hexagons is a simplified verson of the popular game "Plants vs Zombi
 
 
 ## :rocket: Running
+Framework download : https://github.com/UPB-Graphics/gfx-framework
 
 You can run the project from an IDE, as well as standalone, from anywhere on disk. For example:
 
